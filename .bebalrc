@@ -1,0 +1,12 @@
+{
+  "preset": [
+    [
+      "env",
+      {
+        "target": {
+          "node": "current"
+        }
+      }
+    ]
+  ]
+}

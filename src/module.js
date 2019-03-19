@@ -10,3 +10,8 @@
 // 代码在编译的时候，就能获取到这个方法
 
 import { writeFile } from 'fs';
+
+/**
+ * node 10.x 也没有实现import的引入方法，所以需要
+ * 使用babel来编译文件。
+ */
